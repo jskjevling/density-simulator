@@ -1,0 +1,1 @@
+﻿package {	import flash.text.Font;		[Embed(systemFont="Arial", fontName="ArialS", mimeType="application/x-font-truetype")]	public class FontList extends Font {				public static var ARIAL_FONT:String = "";				public function FontList() {					}	}}
